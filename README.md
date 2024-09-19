@@ -4,6 +4,8 @@ Raccolta di tutti i miei interventi a conferenze di programmazione nel corso deg
 | Conferenza | Titolo | Repository |
 |-----------------|-------------|-------------|
 | Bicocca JDBC 2000 | Java e JDBC | https://github.com/matteobaccan/BicoccaJDBC2000 |
+| Webbit 2004 | Introduzione alla programmazione aop con aspectj | https://github.com/matteobaccan/Webbit04 |
+| Webbit 2004 | Tiger nuove caratteristiche per java 1.5 | https://github.com/matteobaccan/Webbit04 |
 | JIPDay 2005 | Conoscere il Digitale Terrestre e sviluppare Xlet con strumenti open source | https://github.com/matteobaccan/JIPDay2005 |
 | PHPDay 2008 | PHP e Java ovvero come poter sfruttare entrambi i linguaggi e vivere felici ... forse | https://github.com/matteobaccan/PHPDay2008 |
 | Confsl 2010 | Facebook Framework ovvero programmiamoci faccialibro con “un po'” di linguaggi | https://github.com/matteobaccan/Confsl2010 |
