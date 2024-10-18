@@ -26,3 +26,4 @@ Vi invito a esplorare questa raccolta, che testimonia l'evoluzione delle tecnolo
 | Codemotion2014 Roma | Ottimizzare JAVA e PHP su un’architettura Raspberry Pi Cluster  | https://github.com/matteobaccan/Codemotion2014 |
 | Serata per BGE | 2024 and Beyond: The Programming Languages of Tomorrow | https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow |
 | AI Centro Giada di Arese | AI Generation | https://github.com/matteobaccan/AIGeneration |
+| Codemotion2024 | Cloud made in Italy: un’offerta in ascesa | https://github.com/matteobaccan/Codemotion2024 |
