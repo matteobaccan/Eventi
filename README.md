@@ -17,6 +17,7 @@ Vi invito a esplorare questa raccolta, che testimonia l'evoluzione delle tecnolo
 | Webbit 2004 | Tiger nuove caratteristiche per java 1.5 | https://github.com/matteobaccan/Webbit04 |
 | JIPDay 2005 | Conoscere il Digitale Terrestre e sviluppare Xlet con strumenti open source | https://github.com/matteobaccan/JIPDay2005 |
 | JavaDay 2006 | Tiger, Mustang e Dolphin: le nuove caratteristiche di JAVA 5, 6 ... 7(?) | https://github.com/matteobaccan/Javaday2006 |
+| Javaday 2007 | Skye e Java | https://github.com/matteobaccan/Javaday2007 |
 | PHPDay 2008 | PHP e Java ovvero come poter sfruttare entrambi i linguaggi e vivere felici ... forse | https://github.com/matteobaccan/PHPDay2008 |
 | Confsl 2010 | Facebook Framework ovvero programmiamoci faccialibro con “un po'” di linguaggi | https://github.com/matteobaccan/Confsl2010 |
 | PHPDay 2010 | Facebook PHP Framework ovvero programmiamoci faccialibro col nostro linguaggio preferito | https://github.com/matteobaccan/PHPDay2010 |
