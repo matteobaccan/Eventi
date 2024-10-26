@@ -12,6 +12,7 @@ Vi invito a esplorare questa raccolta, che testimonia l'evoluzione delle tecnolo
 
 | Conferenza | Titolo | Repository |
 |-----------------|-------------|-------------|
+| BorlandForum | Introduzione all'Inprise application server | https://github.com/matteobaccan/BorlandForum2000 |
 | Bicocca JDBC 2000 | Java e JDBC | https://github.com/matteobaccan/BicoccaJDBC2000 |
 | Webbit 2004 | Introduzione alla programmazione aop con aspectj | https://github.com/matteobaccan/Webbit04 |
 | Webbit 2004 | Tiger nuove caratteristiche per java 1.5 | https://github.com/matteobaccan/Webbit04 |
