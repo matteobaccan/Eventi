@@ -24,6 +24,7 @@ Vi invito a esplorare questa raccolta, che testimonia l'evoluzione delle tecnolo
 | Confsl 2010 | Facebook Framework ovvero programmiamoci faccialibro con “un po'” di linguaggi | https://github.com/matteobaccan/Confsl2010 | IT |
 | JavaDay 2010 | Facebook Java Framework ovvero programmiamoci faccialibro col nostro linguaggio preferito | https://github.com/matteobaccan/Javaday2010 | IT |
 | PHPDay 2010 | Facebook PHP Framework ovvero programmiamoci faccialibro col nostro linguaggio preferito | https://github.com/matteobaccan/PHPDay2010 | IT |
+| WebTech 2010 | Facebook e Twitter | https://github.com/matteobaccan/Webtech2010 | IT |
 | Codemotion2011 Roma | Twitter programming | https://github.com/matteobaccan/Codemotion2011 | IT |
 | Codemotion2012 Roma | Sphinx: Open Source Search Server  | https://github.com/matteobaccan/Codemotion2012 | IT |
 | Codemotion2013 Milano | Ottimizzare JAVA e PHP su un’architettura Raspberry Pi Cluster  | https://github.com/matteobaccan/Codemotion2013 | IT |
