@@ -22,11 +22,12 @@ Vi invito a esplorare questa raccolta, che testimonia l'evoluzione delle tecnolo
 | PHPDay 2008 | PHP e Java ovvero come poter sfruttare entrambi i linguaggi e vivere felici ... forse | https://github.com/matteobaccan/PHPDay2008 | IT |
 | JavaDay 2009 | PHP e Java ovvero come poter sfruttare entrambi i linguaggi e vivere felici ... forse | https://github.com/matteobaccan/Javaday2009 | IT |
 | Confsl 2010 | Facebook Framework ovvero programmiamoci faccialibro con “un po'” di linguaggi | https://github.com/matteobaccan/Confsl2010 | IT |
+| JavaDay 2010 | Facebook Java Framework ovvero programmiamoci faccialibro col nostro linguaggio preferito | https://github.com/matteobaccan/Javaday2010 | IT |
 | PHPDay 2010 | Facebook PHP Framework ovvero programmiamoci faccialibro col nostro linguaggio preferito | https://github.com/matteobaccan/PHPDay2010 | IT |
 | Codemotion2011 Roma | Twitter programming | https://github.com/matteobaccan/Codemotion2011 | IT |
 | Codemotion2012 Roma | Sphinx: Open Source Search Server  | https://github.com/matteobaccan/Codemotion2012 | IT |
 | Codemotion2013 Milano | Ottimizzare JAVA e PHP su un’architettura Raspberry Pi Cluster  | https://github.com/matteobaccan/Codemotion2013 | IT |
 | Codemotion2014 Roma | Ottimizzare JAVA e PHP su un’architettura Raspberry Pi Cluster  | https://github.com/matteobaccan/Codemotion2014 | IT |
 | Serata per BGE | 2024 and Beyond: The Programming Languages of Tomorrow | https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow | EN |
-| AI Centro Giada di Arese | AI Generation | https://github.com/matteobaccan/AIGeneration | IT - EN |
+| AI Centro Giada di Arese | AI Generation | https://github.com/matteobaccan/AIGeneration | EN - IT |
 | Codemotion2024 | Cloud made in Italy: un’offerta in ascesa | https://github.com/matteobaccan/Codemotion2024 | IT |
