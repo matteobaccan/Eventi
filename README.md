@@ -1,4 +1,4 @@
-# Eventi
+# Eventi - IT
 
 Benvenuti nella mia pagina dedicata agli interventi che ho tenuto nel corso degli anni a varie conferenze di programmazione. Questa raccolta rappresenta il mio percorso professionale e la mia passione per la condivisione di conoscenze nel campo dell'informatica e dello sviluppo software.
 
@@ -9,6 +9,18 @@ Ogni intervento elencato qui sotto rappresenta non solo un momento di condivisio
 Per ciascun evento, troverete il nome della conferenza, il titolo del mio intervento e un link al repository GitHub contenente il materiale presentato. Questi repository sono una risorsa preziosa per chi vuole approfondire gli argomenti trattati o rivedere le presentazioni.
 
 Vi invito a esplorare questa raccolta, che testimonia l'evoluzione delle tecnologie informatiche negli ultimi due decenni e il mio costante impegno nel rimanere aggiornato e nel condividere le mie conoscenze con la community.
+
+# Eventi - EN
+
+Welcome to my page dedicated to the presentations I have given over the years at various programming conferences. This collection represents my professional journey and my passion for sharing knowledge in the field of computer science and software development.
+
+From 2000 to the present, I have had the privilege of participating as a speaker at numerous prominent events in both the Italian and international technology landscapes. The topics covered range from Java technologies to innovations in web development, as well as more specific subjects such as programming for digital terrestrial platforms, performance optimization on specialized architectures, and the evolution of programming languages.
+
+Each presentation listed below represents not only a moment of sharing my expertise but also an opportunity for growth and exchange with other professionals in the field. I have sought to tackle cutting-edge topics and provide practical insights that participants could immediately apply.
+
+For each event, you’ll find the conference name, the title of my presentation, and a link to the GitHub repository containing the materials presented. These repositories are a valuable resource for those who wish to delve deeper into the topics discussed or review the presentations.
+
+I invite you to explore this collection, which reflects the evolution of information technology over the past two decades and my ongoing commitment to staying updated and sharing my knowledge with the community.
 
 | Conferenza | Titolo | Repository | Lingua |
 |-----------------|-------------|-------------|---|
