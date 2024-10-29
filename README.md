@@ -1,16 +1,4 @@
-# Eventi - IT
-
-Benvenuti nella mia pagina dedicata agli interventi che ho tenuto nel corso degli anni a varie conferenze di programmazione. Questa raccolta rappresenta il mio percorso professionale e la mia passione per la condivisione di conoscenze nel campo dell'informatica e dello sviluppo software.
-
-Dal 2000 ad oggi, ho avuto il privilegio di partecipare come relatore a numerosi eventi di rilievo nel panorama tecnologico italiano e internazionale. I temi trattati spaziano dalle tecnologie Java alle innovazioni nel campo del web development, passando per argomenti più specifici come la programmazione per il digitale terrestre, l'ottimizzazione delle prestazioni su architetture particolari e l'evoluzione dei linguaggi di programmazione.
-
-Ogni intervento elencato qui sotto rappresenta non solo un momento di condivisione delle mie competenze, ma anche un'opportunità di crescita e di confronto con altri professionisti del settore. Ho cercato di affrontare temi all'avanguardia e di fornire insights pratici che potessero essere immediatamente utili ai partecipanti.
-
-Per ciascun evento, troverete il nome della conferenza, il titolo del mio intervento e un link al repository GitHub contenente il materiale presentato. Questi repository sono una risorsa preziosa per chi vuole approfondire gli argomenti trattati o rivedere le presentazioni.
-
-Vi invito a esplorare questa raccolta, che testimonia l'evoluzione delle tecnologie informatiche negli ultimi due decenni e il mio costante impegno nel rimanere aggiornato e nel condividere le mie conoscenze con la community.
-
-# Eventi - EN
+# Events
 
 Welcome to my page dedicated to the presentations I have given over the years at various programming conferences. This collection represents my professional journey and my passion for sharing knowledge in the field of computer science and software development.
 
@@ -22,7 +10,7 @@ For each event, you’ll find the conference name, the title of my presentation,
 
 I invite you to explore this collection, which reflects the evolution of information technology over the past two decades and my ongoing commitment to staying updated and sharing my knowledge with the community.
 
-| Conferenza | Titolo | Repository | Lingua |
+| Event | Title | Repository | Language |
 |-----------------|-------------|-------------|---|
 | BorlandForum | Introduzione all'Inprise application server | https://github.com/matteobaccan/BorlandForum2000 | IT |
 | Bicocca JDBC 2000 | Java e JDBC | https://github.com/matteobaccan/BicoccaJDBC2000 | IT |
