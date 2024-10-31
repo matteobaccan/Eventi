@@ -1,14 +1,28 @@
-# Events
+# Conference Presentations Archive
 
-Welcome to my page dedicated to the presentations I have given over the years at various programming conferences. This collection represents my professional journey and my passion for sharing knowledge in the field of computer science and software development.
+Welcome to my archive of technical presentations delivered at programming conferences since 2000. This collection showcases my professional journey and contributions to the tech community.
 
-From 2000 to the present, I have had the privilege of participating as a speaker at numerous prominent events in both the Italian and international technology landscapes. The topics covered range from Java technologies to innovations in web development, as well as more specific subjects such as programming for digital terrestrial platforms, performance optimization on specialized architectures, and the evolution of programming languages.
+## Overview
 
-Each presentation listed below represents not only a moment of sharing my expertise but also an opportunity for growth and exchange with other professionals in the field. I have sought to tackle cutting-edge topics and provide practical insights that participants could immediately apply.
+As a speaker at both Italian and international technology events, I've covered a wide range of topics including:
+- Java technologies
+- Web development innovations
+- Digital terrestrial programming
+- Performance optimization
+- Programming language evolution
 
-For each event, you’ll find the conference name, the title of my presentation, and a link to the GitHub repository containing the materials presented. These repositories are a valuable resource for those who wish to delve deeper into the topics discussed or review the presentations.
+## Repository Structure
 
-I invite you to explore this collection, which reflects the evolution of information technology over the past two decades and my ongoing commitment to staying updated and sharing my knowledge with the community.
+Each presentation entry includes:
+- Conference name
+- Presentation title
+- Link to GitHub repository with materials
+
+## Purpose
+
+This archive serves both as a professional portfolio and as an educational resource for developers interested in exploring these technical topics. The materials reflect two decades of technological evolution and continuous learning in software development.
+
+Feel free to explore the repositories and use the materials for your learning journey.
 
 | Event | Title | Repository | Language |
 |-----------------|-------------|-------------|---|
