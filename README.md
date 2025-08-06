@@ -32,7 +32,7 @@ Feel free to explore the repositories and use the materials for your learning jo
 | Webbit 2004 | Tiger nuove caratteristiche per java 1.5 | https://github.com/matteobaccan/Webbit04 | IT |
 | JIPDay 2005 | Conoscere il Digitale Terrestre e sviluppare Xlet con strumenti open source | https://github.com/matteobaccan/JIPDay2005 | IT |
 | JavaDay 2006 | Tiger, Mustang e Dolphin: le nuove caratteristiche di JAVA 5, 6 ... 7(?) | https://github.com/matteobaccan/Javaday2006 | IT |
-| Javaday 2007 | Skye e Java | https://github.com/matteobaccan/Javaday2007 | IT |
+| Javaday 2007 | Skype e Java | https://github.com/matteobaccan/Javaday2007 | IT |
 | PHPDay 2008 | PHP e Java ovvero come poter sfruttare entrambi i linguaggi e vivere felici ... forse | https://github.com/matteobaccan/PHPDay2008 | IT |
 | JavaDay 2009 | PHP e Java ovvero come poter sfruttare entrambi i linguaggi e vivere felici ... forse | https://github.com/matteobaccan/Javaday2009 | IT |
 | Confsl 2010 | Facebook Framework ovvero programmiamoci faccialibro con “un po'” di linguaggi | https://github.com/matteobaccan/Confsl2010 | IT |
