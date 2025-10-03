@@ -46,3 +46,4 @@ Feel free to explore the repositories and use the materials for your learning jo
 | Serata per BGE | 2024 and Beyond: The Programming Languages of Tomorrow | https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow | EN |
 | AI Centro Giada di Arese | AI Generation | https://github.com/matteobaccan/AIGeneration | EN - IT |
 | Codemotion2024 | Cloud made in Italy: un’offerta in ascesa | https://github.com/matteobaccan/Codemotion2024 | IT |
+| Codemotion2025 | Cosa ci sta cambiando sotto ai piedi? l'AI ci ruberà il lavoro? | https://www.linkedin.com/posts/matteobaccan_codemotion-magazine-codemotion-activity-7378843428878553088-O5BO/ | IT |
