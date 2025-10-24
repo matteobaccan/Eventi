@@ -44,6 +44,7 @@ Feel free to explore the repositories and use the materials for your learning jo
 | Codemotion2013 Milan | Optimizing Java and PHP on a Raspberry Pi Cluster architecture | https://github.com/matteobaccan/Codemotion2013 | IT |
 | Codemotion2014 Rome | Optimizing Java and PHP on a Raspberry Pi Cluster architecture | https://github.com/matteobaccan/Codemotion2014 | IT |
 | Linox 2014 | Raspberry Pi in action | https://github.com/matteobaccan/Linox2014 | IT |
+| Corso CTS 10/11/2015 | Gmail e Google App |https://github.com/matteobaccan/LinoxCorsoCTS2015 | IT |
 | Event for BGE | 2024 and Beyond: The Programming Languages of Tomorrow | https://github.com/matteobaccan/ProgrammingLanguagesOfTomorrow | EN |
 | AI Centro Giada di Arese | AI Generation | https://github.com/matteobaccan/AIGeneration | EN - IT |
 | Codemotion2024 | Cloud made in Italy: an emerging offering | https://github.com/matteobaccan/Codemotion2024 | IT |
