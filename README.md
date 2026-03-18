@@ -51,6 +51,10 @@ Feel free to explore the repositories and use the materials for your learning jo
 | Bicocca JDBC 2000 | Java and JDBC | https://github.com/matteobaccan/BicoccaJDBC2000 | IT |
 | BorlandForum | Introduction to the Inprise Application Server | https://github.com/matteobaccan/BorlandForum2000 | IT |
 
+## Sessionize
+
+You can find some of my talks on Sessionize <https://sessionize.com/matteo-baccan/>
+
 ## Final notes
 
 Some presentations may contain outdated material: use with caution and verify the linked resources. If an individual talk includes a specific license or instructions, check the corresponding folder for details.
