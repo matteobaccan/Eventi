@@ -26,6 +26,7 @@ Feel free to explore the repositories and use the materials for your learning jo
 
 | Event | Title | Repository | Language |
 |-----------------|-------------|-------------|---|
+| A.I. Day 2026 | Il Vibecoding è morto: viva lo Spec-Driven Development | https://github.com/matteobaccan/aiday2026 | IT |
 | MokaConference 2026 | Il Vibecoding è morto: viva lo Spec-Driven Development | https://github.com/matteobaccan/mokaconference2026 | IT |
 | Codemotion2025 | What's changing under our feet? Will AI steal our jobs? | https://github.com/matteobaccan/Codemotion2025 | IT |
 | Codemotion2024 | Cloud made in Italy: an emerging offering | https://github.com/matteobaccan/Codemotion2024 | IT |
