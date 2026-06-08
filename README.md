@@ -20,6 +20,7 @@ Whether you are looking for inspiration for your next conference submission or w
 | 2014 | 🎤 Linox | Raspberry Pi in action | [📂 Repo](https://github.com/matteobaccan/Linox2014) | IT |
 | 2014 | 🎤 Codemotion – Rome | Optimizing Java and PHP on a Raspberry Pi Cluster architecture | [📂 Repo](https://github.com/matteobaccan/Codemotion2014) | IT |
 | 2013 | 🎤 Codemotion – Milan | Optimizing Java and PHP on a Raspberry Pi Cluster architecture | [📂 Repo](https://github.com/matteobaccan/Codemotion2013) | IT |
+| 2012 | 🎤 Stack Overflow Meetup – Milan | HTML2POP3 — Come partire da un'idea e arrivare a 900.000 download (quasi) | [📂 Repo](https://github.com/matteobaccan/StackOverflowMeetup) | IT |
 | 2012 | 🎤 Codemotion – Rome | Sphinx: Open Source Search Server | [📂 Repo](https://github.com/matteobaccan/Codemotion2012) | IT |
 | 2011 | 🎤 Codemotion – Rome | Twitter programming | [📂 Repo](https://github.com/matteobaccan/Codemotion2011) | IT |
 | 2010 | 🎤 WebTech | Facebook and Twitter | [📂 Repo](https://github.com/matteobaccan/Webtech2010) | IT |
