@@ -33,8 +33,8 @@ Whether you are looking for inspiration for your next conference submission or w
 | 2005 | 🎤 JIPDay | Understanding Digital Terrestrial and developing Xlets with open source tools | [📂 Repo](https://github.com/matteobaccan/JIPDay2005) | IT |
 | 2004 | 🎤 Webbit | Tiger: new features for Java 1.5 | [📂 Repo](https://github.com/matteobaccan/Webbit04) | IT |
 | 2004 | 🎤 Webbit | Introduction to AOP programming with AspectJ | [📂 Repo](https://github.com/matteobaccan/Webbit04) | IT |
-| 2000 | 🎤 Bicocca JDBC | Java and JDBC | [📂 Repo](https://github.com/matteobaccan/BicoccaJDBC2000) | IT |
-| 2000 | 🎤 BorlandForum | Introduction to the Inprise Application Server | [📂 Repo](https://github.com/matteobaccan/BorlandForum2000) | IT |
+| 2000 | 🎤 Java Flavour Day | Java and JDBC | [📂 Repo](https://github.com/matteobaccan/BicoccaJDBC2000) | IT |
+| 2000 | 🎤 Borland Forum | Introduction to the Inprise Application Server | [📂 Repo](https://github.com/matteobaccan/BorlandForum2000) | IT |
 
 ## Sessionize
 
