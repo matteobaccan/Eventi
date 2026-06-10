@@ -23,17 +23,17 @@ Whether you are looking for inspiration for your next conference submission or w
 | 2012 | 🎤 Stack Overflow Meetup – Milano | HTML2POP3 — Come partire da un'idea e arrivare a 900.000 download (quasi) | [📂 Repo](https://github.com/matteobaccan/StackOverflowMeetup) | IT |
 | 2012 | 🎤 Codemotion – Roma | Sphinx: Open Source Search Server | [📂 Repo](https://github.com/matteobaccan/Codemotion2012) | IT |
 | 2011 | 🎤 Codemotion – Roma | Twitter programming | [📂 Repo](https://github.com/matteobaccan/Codemotion2011) | IT |
-| 2010 | 🎤 WebTech | Facebook and Twitter | [📂 Repo](https://github.com/matteobaccan/Webtech2010) | IT |
-| 2010 | 🎤 PHPDay | Facebook PHP Framework: programming "Facebook" with our preferred language | [📂 Repo](https://github.com/matteobaccan/PHPDay2010) | IT |
-| 2010 | 🎤 JavaDay | Facebook Java Framework: programming "Facebook" with our preferred language | [📂 Repo](https://github.com/matteobaccan/Javaday2010) | IT |
-| 2010 | 🎤 Confsl | Facebook Framework: programming for "Facebook" with a mix of languages | [📂 Repo](https://github.com/matteobaccan/Confsl2010) | IT |
-| 2009 | 🎤 JavaDay | PHP and Java: how to leverage both languages and live happily... maybe | [📂 Repo](https://github.com/matteobaccan/Javaday2009) | IT |
-| 2008 | 🎤 PHPDay | PHP and Java: how to leverage both languages and live happily... maybe | [📂 Repo](https://github.com/matteobaccan/PHPDay2008) | IT |
-| 2007 | 🎤 JavaDay | Skype and Java | [📂 Repo](https://github.com/matteobaccan/Javaday2007) | IT |
-| 2006 | 🎤 JavaDay | Tiger, Mustang and Dolphin: new features of Java 5, 6 ... 7(?) | [📂 Repo](https://github.com/matteobaccan/Javaday2006) | IT |
-| 2005 | 🎤 JIPDay | Understanding Digital Terrestrial and developing Xlets with open source tools | [📂 Repo](https://github.com/matteobaccan/JIPDay2005) | IT |
-| 2004 | 🎤 Webbit | Tiger: new features for Java 1.5 | [📂 Repo](https://github.com/matteobaccan/Webbit04) | IT |
-| 2004 | 🎤 Webbit | Introduction to AOP programming with AspectJ | [📂 Repo](https://github.com/matteobaccan/Webbit04) | IT |
+| 2010 | 🎤 WebTech - Milano | Facebook and Twitter | [📂 Repo](https://github.com/matteobaccan/Webtech2010) | IT |
+| 2010 | 🎤 PHPDay - Corropoli | Facebook PHP Framework: programming "Facebook" with our preferred language | [📂 Repo](https://github.com/matteobaccan/PHPDay2010) | IT |
+| 2010 | 🎤 JavaDay - Roma | Facebook Java Framework: programming "Facebook" with our preferred language | [📂 Repo](https://github.com/matteobaccan/Javaday2010) | IT |
+| 2010 | 🎤 Confsl - Cagliari | Facebook Framework: programming for "Facebook" with a mix of languages | [📂 Repo](https://github.com/matteobaccan/Confsl2010) | IT |
+| 2009 | 🎤 JavaDay - Roma | PHP and Java: how to leverage both languages and live happily... maybe | [📂 Repo](https://github.com/matteobaccan/Javaday2009) | IT |
+| 2008 | 🎤 PHPDay - Rimini | PHP and Java: how to leverage both languages and live happily... maybe | [📂 Repo](https://github.com/matteobaccan/PHPDay2008) | IT |
+| 2007 | 🎤 JavaDay - Roma | Skype and Java | [📂 Repo](https://github.com/matteobaccan/Javaday2007) | IT |
+| 2006 | 🎤 JavaDay - Roma | Tiger, Mustang and Dolphin: new features of Java 5, 6 ... 7(?) | [📂 Repo](https://github.com/matteobaccan/Javaday2006) | IT |
+| 2005 | 🎤 JIPDay - Roma | Understanding Digital Terrestrial and developing Xlets with open source tools | [📂 Repo](https://github.com/matteobaccan/JIPDay2005) | IT |
+| 2004 | 🎤 Webbit - Padova /Milano | Tiger: new features for Java 1.5 | [📂 Repo](https://github.com/matteobaccan/Webbit04) | IT |
+| 2004 | 🎤 Webbit - Padova /Milano | Introduction to AOP programming with AspectJ | [📂 Repo](https://github.com/matteobaccan/Webbit04) | IT |
 | 2000 | 🎤 Java Flavour Day - Milano | Java and JDBC | [📂 Repo](https://github.com/matteobaccan/BicoccaJDBC2000) | IT |
 | 2000 | 🎤 Borland Forum - Milano | Introduction to the Inprise Application Server | [📂 Repo](https://github.com/matteobaccan/BorlandForum2000) | IT |
 
