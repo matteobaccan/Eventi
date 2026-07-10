@@ -10,7 +10,7 @@ Whether you are looking for inspiration for your next conference submission or w
 
 | Year | Event | Location | Title | Tags | Repository | Language |
 |:----:|-------|:--------:|-------|------|:----------:|:--------:|
-| 2026 | 🎤 We Make Future | Bologna | Come lo Spec-Driven Development sta cambiando il modo di programmare | `AI` `Dev` | [📂 Repo](https://github.com/matteobaccan/wemakefuture2026) · 🔜 Jul 2026 | IT |
+| 2026 | 🎤 We Make Future | Bologna | Come lo Spec-Driven Development sta cambiando il modo di programmare | `AI` `Dev` | [📂 Repo](https://github.com/matteobaccan/wemakefuture2026) | IT |
 | 2026 | 🎤 A.I. Day | Roma | Il Vibecoding è morto: viva lo Spec-Driven Development | `AI` `Dev` | [📂 Repo](https://github.com/matteobaccan/aiday2026) | IT |
 | 2026 | 🎤 MokaConference | Reggio Emilia | Il Vibecoding è morto: viva lo Spec-Driven Development | `AI` `Dev` | [📂 Repo](https://github.com/matteobaccan/mokaconference2026) | IT |
 | 2025 | 🎤 Codemotion | Milano | What's changing under our feet? Will AI steal our jobs? | `AI` | [📂 Repo](https://github.com/matteobaccan/Codemotion2025) | IT |
