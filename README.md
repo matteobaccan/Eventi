@@ -4,12 +4,13 @@ Since 2000 I have been speaking at Italian and international tech conferences, c
 
 This repository collects every talk in a single place. Each row in the table below links to a dedicated GitHub repository where you can find slides, code samples, and any additional material used during the presentation.
 
-**29 talks · 26 years (2000–2026) · 10+ cities.** The archive is a work in progress: several events are missing and will be added soon.
+**30 talks · 26 years (2000–2026) · 10+ cities.** The archive is a work in progress: several events are missing and will be added soon.
 
 Whether you are looking for inspiration for your next conference submission or want to dive into a specific technology, feel free to explore, reuse, and learn.
 
 | Year | Event | Location | Title | Tags | Repository | Language |
 |:----:|-------|:--------:|-------|------|:----------:|:--------:|
+| 2026 | 🎤 DevFest | Modena | OpenSpec: Spec-Driven Development nell'era degli Agenti AI | `AI` `Dev` | REPO - Oct 2026 | IT |
 | 2026 | 🎤 devsecopsday | Bologna | Oltre il Chatbot: Arginare la Prompt Injection a Livello Infrastrutturale e di Platform Engineering | `AI` `Dev` `Sec` `Ops` | REPO - Oct 2026 | IT |
 | 2026 | 🎤 We Make Future | Bologna | Come lo Spec-Driven Development sta cambiando il modo di programmare | `AI` `Dev` | [📂 Repo](https://github.com/matteobaccan/wemakefuture2026) | IT |
 | 2026 | 🎤 A.I. Day | Roma | Il Vibecoding è morto: viva lo Spec-Driven Development | `AI` `Dev` | [📂 Repo](https://github.com/matteobaccan/aiday2026) | IT |
